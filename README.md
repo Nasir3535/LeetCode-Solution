@@ -116,6 +116,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -141,4 +142,12 @@
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
