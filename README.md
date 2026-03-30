@@ -12,6 +12,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
 |  |
