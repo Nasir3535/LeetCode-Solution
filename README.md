@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
