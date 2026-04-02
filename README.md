@@ -168,6 +168,7 @@
 | [0061-rotate-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -198,4 +199,12 @@
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
