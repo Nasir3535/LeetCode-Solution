@@ -35,6 +35,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
