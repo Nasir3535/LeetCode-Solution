@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
@@ -163,6 +164,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
@@ -182,6 +184,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
