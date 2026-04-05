@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -120,6 +121,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -164,6 +166,7 @@
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -182,6 +185,7 @@
 | [0061-rotate-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
