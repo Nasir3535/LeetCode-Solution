@@ -30,6 +30,7 @@
 | [0657-robot-return-to-origin](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Array
@@ -165,6 +166,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
