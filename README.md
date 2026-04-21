@@ -49,6 +49,7 @@
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -164,6 +165,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Doubly-Linked List
 |  |
 | ------- |
