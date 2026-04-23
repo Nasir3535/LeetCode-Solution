@@ -61,6 +61,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -121,6 +122,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
