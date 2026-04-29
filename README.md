@@ -49,6 +49,7 @@
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2906-construct-product-matrix) |
@@ -166,6 +169,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
