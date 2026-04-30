@@ -84,6 +84,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
@@ -106,6 +107,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
