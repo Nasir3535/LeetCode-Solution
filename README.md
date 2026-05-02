@@ -114,6 +114,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1952-three-divisors](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1952-three-divisors) |
