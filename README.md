@@ -57,6 +57,7 @@
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -352,6 +354,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
