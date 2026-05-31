@@ -97,6 +97,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -229,6 +230,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3488-closest-equal-element-queries) |
@@ -290,6 +292,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3161-block-placement-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -393,4 +396,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
