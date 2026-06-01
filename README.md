@@ -406,4 +406,8 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3161-block-placement-queries) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
