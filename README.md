@@ -165,6 +165,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
@@ -362,6 +364,7 @@
 | [1952-three-divisors](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
