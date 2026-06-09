@@ -4,13 +4,14 @@ public:
        vector<int>ans;
        int n = nums.size();
 
-       for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]+nums[j]==target){
-                    ans = {i,j};
-                    return ans;
-                }
+       unordered_map<int,int>mp;
+       for(int i=0; i<n ;i++){
+            int comp = target-nums[i];
+            if(mp.find(comp) != mp.end()){
+                ans = {mp[comp],i};
+                return ans;
             }
+            mp[nums[i]] = i;
        }
        return {};
     }
