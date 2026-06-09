@@ -55,6 +55,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -154,6 +155,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
@@ -406,6 +408,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Trie
