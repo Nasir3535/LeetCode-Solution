@@ -7,6 +7,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0657-robot-return-to-origin) |
@@ -359,6 +360,7 @@
 | [0015-3sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
