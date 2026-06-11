@@ -64,6 +64,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
@@ -365,6 +366,7 @@
 | [0125-valid-palindrome](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
