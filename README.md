@@ -365,6 +365,7 @@
 | [0206-reverse-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -388,6 +390,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
