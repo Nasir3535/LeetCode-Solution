@@ -70,6 +70,7 @@
 | [0238-product-of-array-except-self](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
+| [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
