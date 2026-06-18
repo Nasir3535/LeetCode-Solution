@@ -313,6 +313,7 @@
 | [0048-rotate-image](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1952-three-divisors](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1952-three-divisors) |
