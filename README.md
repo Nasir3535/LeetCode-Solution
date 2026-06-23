@@ -78,6 +78,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1340-jump-game-v) |
@@ -201,6 +202,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1871-jump-game-vii) |
@@ -216,6 +218,7 @@
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
