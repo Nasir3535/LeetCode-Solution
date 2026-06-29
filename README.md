@@ -282,6 +282,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0441-arranging-coins](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2540-minimum-common-value) |
@@ -330,6 +331,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
