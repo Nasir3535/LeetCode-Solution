@@ -14,6 +14,7 @@
 | [0796-rotate-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -210,6 +211,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -227,6 +229,7 @@
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2540-minimum-common-value) |
