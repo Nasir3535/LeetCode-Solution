@@ -112,6 +112,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2540-minimum-common-value) |
@@ -217,6 +218,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
