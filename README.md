@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0657-robot-return-to-origin) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -233,6 +235,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -291,6 +294,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [1009-complement-of-base-10-integer](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -552,10 +556,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Shortest Path
 |  |
