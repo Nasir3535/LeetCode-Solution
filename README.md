@@ -11,6 +11,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
@@ -227,6 +228,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -250,6 +252,7 @@
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
@@ -462,6 +465,7 @@
 | [0141-linked-list-cycle](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
