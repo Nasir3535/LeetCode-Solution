@@ -89,6 +89,7 @@
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
@@ -330,6 +331,7 @@
 | [0441-arranging-coins](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
