@@ -93,6 +93,7 @@
 | [1288-remove-covered-intervals](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -264,6 +265,7 @@
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -453,6 +455,7 @@
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
