@@ -520,6 +520,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
