@@ -627,6 +627,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1934-confirmation-rate) |
 ## Tree
 |  |
 | ------- |
