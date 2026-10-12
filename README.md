@@ -561,6 +561,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -598,6 +599,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
@@ -631,6 +633,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -669,6 +672,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
