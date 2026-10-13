@@ -175,6 +175,7 @@
 | [3660-jump-game-ix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -392,6 +393,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
