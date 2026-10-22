@@ -183,6 +183,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3838-weighted-word-mapping) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
