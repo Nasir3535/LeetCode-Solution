@@ -32,6 +32,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2409-count-days-spent-together](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2833-furthest-point-from-origin) |
@@ -434,6 +435,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1952-three-divisors](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
