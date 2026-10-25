@@ -151,6 +151,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -392,6 +393,7 @@
 | [2126-destroying-asteroids](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -502,6 +504,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
