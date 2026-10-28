@@ -187,6 +187,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3838-weighted-word-mapping) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
 |  |
@@ -218,6 +219,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -353,6 +356,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
