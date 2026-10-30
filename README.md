@@ -224,6 +224,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
@@ -439,6 +440,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
@@ -663,6 +665,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -702,7 +705,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
