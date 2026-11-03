@@ -90,6 +90,7 @@
 | [0283-move-zeroes](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0874-walking-robot-simulation](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -445,6 +446,7 @@
 | [0396-rotate-function](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1622-fancy-sequence) |
@@ -499,6 +501,7 @@
 | [0088-merge-sorted-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
