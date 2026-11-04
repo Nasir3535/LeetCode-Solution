@@ -598,6 +598,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -638,6 +639,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
@@ -677,6 +679,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -718,6 +721,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
