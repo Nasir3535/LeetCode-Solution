@@ -441,6 +441,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nasir3535/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -619,6 +620,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
@@ -661,6 +663,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [1254-number-of-closed-islands](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1345-jump-game-iv) |
@@ -726,6 +729,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Nasir3535/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3620-network-recovery-pathways) |
 ## Combinatorics
 |  |
