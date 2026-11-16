@@ -1,23 +1,6 @@
 class Solution {
 public:
-    bool cycle(int node,vector<int>adj[],vector<int>&vis,vector<int>&pathvis){ // cycle detcetion
-        vis[node] = 1;
-        pathvis[node] = 1;
-
-        for(auto it:adj[node]){
-            if(!vis[it]){
-                if(cycle(it,adj,vis,pathvis) == 1) return 1;
-            }
-            else if(pathvis[it])    return 1;
-            
-        }
-
-        pathvis[node] = 0;
-        return 0;
-    }
-
-
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {    //Kahn's Algo
         //adj list 
         vector<int>adj[numCourses];
         for(int i=0;i<prerequisites.size() ;i++){
@@ -26,15 +9,31 @@ public:
             adj[u].push_back(v);
         }    
 
-        vector<int>vis(numCourses);
-        vector<int>pathvis(numCourses);
-
+        vector<int>indeg(numCourses);
         for(int i=0 ;i<numCourses; i++){
-            if(!vis[i]){
-                if(cycle(i,adj,vis,pathvis) == 1) return 0;
+            for(auto it:adj[i]){
+                indeg[it]++;
             }
         }
 
-        return 1;
+        queue<int>q;
+        for(int i=0 ;i<numCourses; i++){
+            if(indeg[i]==0) q.push(i);
+        }
+
+        vector<int>toposort;
+        while(q.size()){
+            int node = q.front();
+            q.pop();
+            toposort.push_back(node);
+
+            for(auto it:adj[node]){
+                indeg[it]--;
+                if(indeg[it]==0) q.push(it);
+            }
+        }
+
+        return toposort.size() == numCourses;
+        
     }
 };
