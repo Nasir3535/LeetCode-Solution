@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {    //Kahn's Algo
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {    //toposort( bfs-Kahn's Algo)
         //adj list 
         vector<int>adj[numCourses];
         for(int i=0;i<prerequisites.size() ;i++){
